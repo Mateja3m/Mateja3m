@@ -4,7 +4,7 @@
 
 <br/>
 
- 🥅 2022 Main Goal Fulfilled: Found a full-time Job
+ 🥅 2022 Main Goal Fulfilled: Found a full-time Job <br/>
  🥅 2022 Additional Goal: Improve my frontend skills
 
 ### You can connect with me on LinkedIn
