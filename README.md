@@ -4,9 +4,10 @@
 
 <br/>
 
- 🥅 2022 Main Goal: Find a Job
+ 🥅 2022 Main Goal Fulfilled: Found a full-time Job
+ 🥅 2022 Additional Goal: Improve my frontend skills
 
-### Connect with me
+### You can connect with me on LinkedIn
 
 [![Linkedin Badge](https://img.shields.io/badge/-milan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matejic83/)
 
