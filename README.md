@@ -4,9 +4,9 @@
 
 <br/>
 
- 🥅 In 2023 I want to continue with improving my frontend skills and learn new programming language
+ 🥅 In 2023 I want to continue learning and improve my skills.
 
-### You can connect with me on LinkedIn
+### Let's Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-milan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matejic83/)
 
