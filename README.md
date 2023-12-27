@@ -4,7 +4,7 @@
 
 <br/>
 
- 🥅 In 2023 I want to continue learning and improve my skills.
+ 🥅 In 2024 I want to become the best version of myself.
 
 ### Let's Connect
 
